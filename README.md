@@ -16,7 +16,7 @@ SafeDriverRTOS é um projeto de um carro autônomo utilizando **Raspberry Pi Pic
 ## 📸 **Demonstração**
 (Aqui você pode adicionar imagens ou GIFs do carro em funcionamento)
 
-![Carro Autônomo](./images/demo.gif)  
+![Carro Autônomo](./images/IMG_8155.png)  
 📌 _Imagem ilustrativa do funcionamento do SafeDriverRTOS_
 
 
