@@ -34,4 +34,8 @@ SafeDriverRTOS é um projeto de um carro autônomo utilizando **Raspberry Pi Pic
 - Pico SDK
 - Código-fonte em C
 
+### 🔹 Esquemático do Projeto
+
+<img src="./images/IMG_8155.png" alt="Carro Autônomo" width="40%" style="margin-right: 10px;">
+
 
